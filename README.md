@@ -2,5 +2,5 @@
 Desafio de Projeto Git/Github
 
 
-## Links Uteis
+## Links Úteis
 [Sintaze Basica Marckdwon](https://www.markdownguide.org/cheat-sheet/)
